@@ -1,0 +1,416 @@
+{
+  version: 1,
+  mediaFileName: '240120_1.mp4',
+  cutSegments: [
+    {
+      start: 6.6,
+      end: 12.6,
+      name: '',
+    },
+    {
+      start: 19.4,
+      end: 24,
+      name: '',
+    },
+    {
+      start: 36.4,
+      end: 42.8,
+      name: '',
+    },
+    {
+      start: 47.8,
+      end: 50,
+      name: '',
+    },
+    {
+      start: 54.2,
+      end: 55.2,
+      name: '',
+    },
+    {
+      start: 61.6,
+      end: 62.8,
+      name: '',
+    },
+    {
+      start: 67.4,
+      end: 68.4,
+      name: '',
+    },
+    {
+      start: 74.2,
+      end: 75.4,
+      name: '',
+    },
+    {
+      start: 85.8,
+      end: 87,
+      name: '',
+    },
+    {
+      start: 98.4,
+      end: 103.6,
+      name: '',
+    },
+    {
+      start: 106.2,
+      end: 107.2,
+      name: '',
+    },
+    {
+      start: 113.4,
+      end: 114.4,
+      name: '',
+    },
+    {
+      start: 139,
+      end: 144.8,
+      name: '',
+    },
+    {
+      start: 152.2,
+      end: 153.2,
+      name: '',
+    },
+    {
+      start: 156,
+      end: 157,
+      name: '',
+    },
+    {
+      start: 163,
+      end: 165.2,
+      name: '',
+    },
+    {
+      start: 180.8,
+      end: 181.8,
+      name: '',
+    },
+    {
+      start: 183.8,
+      end: 184.8,
+      name: '',
+    },
+    {
+      start: 195.4,
+      end: 196.4,
+      name: '',
+    },
+    {
+      start: 208,
+      end: 210.2,
+      name: '',
+    },
+    {
+      start: 220.8,
+      end: 223.2,
+      name: '',
+    },
+    {
+      start: 253,
+      end: 258.2,
+      name: '',
+    },
+    {
+      start: 268.4,
+      end: 274.4,
+      name: '',
+    },
+    {
+      start: 276.8,
+      end: 277.8,
+      name: '',
+    },
+    {
+      start: 285,
+      end: 286,
+      name: '',
+    },
+    {
+      start: 295.8,
+      end: 298,
+      name: '',
+    },
+    {
+      start: 308.8,
+      end: 309.8,
+      name: '',
+    },
+    {
+      start: 323,
+      end: 324,
+      name: '',
+    },
+    {
+      start: 333.6,
+      end: 334.6,
+      name: '',
+    },
+    {
+      start: 336,
+      end: 337.2,
+      name: '',
+    },
+    {
+      start: 356.8,
+      end: 357.8,
+      name: '',
+    },
+    {
+      start: 363,
+      end: 364.2,
+      name: '',
+    },
+    {
+      start: 372.4,
+      end: 373.4,
+      name: '',
+    },
+    {
+      start: 385.8,
+      end: 388.2,
+      name: '',
+    },
+    {
+      start: 396,
+      end: 397.4,
+      name: '',
+    },
+    {
+      start: 404.2,
+      end: 406.8,
+      name: '',
+    },
+    {
+      start: 415.8,
+      end: 416.8,
+      name: '',
+    },
+    {
+      start: 431.2,
+      end: 435.2,
+      name: '',
+    },
+    {
+      start: 445.6,
+      end: 446.6,
+      name: '',
+    },
+    {
+      start: 453.8,
+      end: 454.8,
+      name: '',
+    },
+    {
+      start: 460,
+      end: 461,
+      name: '',
+    },
+    {
+      start: 472.8,
+      end: 473.8,
+      name: '',
+    },
+    {
+      start: 479.6,
+      end: 480.6,
+      name: '',
+    },
+    {
+      start: 494,
+      end: 495,
+      name: '',
+    },
+    {
+      start: 500.6,
+      end: 501.8,
+      name: '',
+    },
+    {
+      start: 523.2,
+      end: 524.2,
+      name: '',
+    },
+    {
+      start: 530,
+      end: 534,
+      name: '',
+    },
+    {
+      start: 545,
+      end: 546,
+      name: '',
+    },
+    {
+      start: 554.8,
+      end: 555.8,
+      name: '',
+    },
+    {
+      start: 557.4,
+      end: 559.6,
+      name: '',
+    },
+    {
+      start: 568.8,
+      end: 571.4,
+      name: '',
+    },
+    {
+      start: 582.2,
+      end: 583.2,
+      name: '',
+    },
+    {
+      start: 592.4,
+      end: 593.4,
+      name: '',
+    },
+    {
+      start: 594.8,
+      end: 595.8,
+      name: '',
+    },
+    {
+      start: 607,
+      end: 609.4,
+      name: '',
+    },
+    {
+      start: 634,
+      end: 635,
+      name: '',
+    },
+    {
+      start: 638.8,
+      end: 639.8,
+      name: '',
+    },
+    {
+      start: 651.4,
+      end: 652.4,
+      name: '',
+    },
+    {
+      start: 672,
+      end: 673,
+      name: '',
+    },
+    {
+      start: 686.8,
+      end: 687.8,
+      name: '',
+    },
+    {
+      start: 691.6,
+      end: 693,
+      name: '',
+    },
+    {
+      start: 702.8,
+      end: 706.2,
+      name: '',
+    },
+    {
+      start: 710.6,
+      end: 711.6,
+      name: '',
+    },
+    {
+      start: 721.8,
+      end: 725.6,
+      name: '',
+    },
+    {
+      start: 728.8,
+      end: 729.8,
+      name: '',
+    },
+    {
+      start: 731.2,
+      end: 732.2,
+      name: '',
+    },
+    {
+      start: 739.6,
+      end: 740.6,
+      name: '',
+    },
+    {
+      start: 752.8,
+      end: 753.8,
+      name: '',
+    },
+    {
+      start: 761,
+      end: 762,
+      name: '',
+    },
+    {
+      start: 767,
+      end: 769.2,
+      name: '',
+    },
+    {
+      start: 778,
+      end: 779,
+      name: '',
+    },
+    {
+      start: 783.4,
+      end: 786,
+      name: '',
+    },
+    {
+      start: 794.6,
+      end: 795.6,
+      name: '',
+    },
+    {
+      start: 797,
+      end: 798,
+      name: '',
+    },
+    {
+      start: 808.4,
+      end: 812.2,
+      name: '',
+    },
+    {
+      start: 819.4,
+      end: 821.8,
+      name: '',
+    },
+    {
+      start: 823.8,
+      end: 824.8,
+      name: '',
+    },
+    {
+      start: 834.2,
+      end: 835.2,
+      name: '',
+    },
+    {
+      start: 839.6,
+      end: 840.6,
+      name: '',
+    },
+    {
+      start: 848.2,
+      end: 849.2,
+      name: '',
+    },
+    {
+      start: 850.6,
+      end: 852.8,
+      name: '',
+    },
+    {
+      start: 863.4,
+      end: 867.4,
+      name: '',
+    },
+  ],
+}

@@ -1,3 +1,8 @@
 pretrained_models/*
 *.mp4
 *.wav
+yolov5_test/ultralytics_yolov5_master
+yolov5_test/build
+yolov5_test/dist
+yolov5_test/__pycache__
+yolov5_test/resources/__pycache__
